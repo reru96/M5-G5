@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61ae321f410c5934b8ece0aecda62120, type: 3}
+  m_Name: Screen
+  m_EditorClassIdentifier: 
+  id: 1
+  nome: Potion
+  sprite: {fileID: 0}
+  description: heal the Player
+  healing: 10
